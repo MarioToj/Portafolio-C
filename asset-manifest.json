@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portafolio-C/static/css/main.e0d4e6f1.css",
+    "main.js": "/Portafolio-C/static/js/main.656f1cfb.js",
+    "static/media/CoverVideo.mp4": "/Portafolio-C/static/media/CoverVideo.6d3e5503c0865f48b997.mp4",
+    "static/media/Mac-1.png": "/Portafolio-C/static/media/Mac-1.7f2801ee442b47f77a66.png",
+    "static/media/heroes.jpg": "/Portafolio-C/static/media/heroes.437a91329f12f186dcd7.jpg",
+    "static/media/notas.jpg": "/Portafolio-C/static/media/notas.124d00c92827dd72d507.jpg",
+    "static/media/calendario.jpg": "/Portafolio-C/static/media/calendario.dc80eb004bf4d8395408.jpg",
+    "static/media/youtube.jpg": "/Portafolio-C/static/media/youtube.a63e10a2ef971e4e38e8.jpg",
+    "static/media/slick.svg": "/Portafolio-C/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Portafolio-C/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Portafolio-C/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Portafolio-C/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Portafolio-C/index.html",
+    "main.e0d4e6f1.css.map": "/Portafolio-C/static/css/main.e0d4e6f1.css.map",
+    "main.656f1cfb.js.map": "/Portafolio-C/static/js/main.656f1cfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d4e6f1.css",
+    "static/js/main.656f1cfb.js"
+  ]
+}
